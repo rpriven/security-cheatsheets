@@ -14,14 +14,20 @@ A collection of security, pentesting, and technical reference cheatsheets.
 
 | Cheatsheet | Description |
 |------------|-------------|
+| [Web Application Security](infosec/web-application-security.md) | OWASP Top 10, SQLi, XSS, SSRF, and web app testing |
+| [Network Pentesting](infosec/network-pentesting.md) | Nmap, Wireshark, service enumeration |
+| [Privilege Escalation](infosec/privilege-escalation.md) | Linux and Windows privesc techniques |
+| [Active Directory](infosec/active-directory.md) | AD attacks, Kerberoasting, BloodHound, lateral movement |
+| [OSINT](infosec/osint.md) | Open source intelligence, reconnaissance, dorking |
 | [Pentesting Methodology](infosec/pentesting-methodology.md) | Basic methodology for pentesters |
 | [Penetration Testing Reporting](infosec/pentest-reporting.md) | Comprehensive guide for creating professional pentest reports |
 | [SOC Analyst Reference](infosec/soc-analyst.md) | Essential knowledge for Security Operations Center analysts |
 | [CTF Jeopardy Guide](infosec/ctf-jeopardy.md) | Techniques for solving common CTF challenge categories |
 | [PJPT Reference Guide](infosec/pjpt-reference.md) | Common commands and techniques for the PJPT certification |
+| [CIS 18 Controls](infosec/cis_18_controls.md) | CIS Critical Security Controls reference |
+| [Incident Response](infosec/incident-response.md) | Quick techniques for IR |
 | [GitHub Commands](infosec/github-commands.md) | Git and GitHub command reference |
 | [Command Line Reference](infosec/command-line-reference.md) | Cross-platform CLI commands |
-| [Incident Response](infosec/incident-response.md) | Quick techniques for IR |
 
 ## AI Security
 
@@ -29,7 +35,6 @@ A collection of security, pentesting, and technical reference cheatsheets.
 |------------|-------------|
 | [AI Pentesting](ai-security/ai-pentesting.md) | Framework for testing and securing AI systems |
 | [Prompt Engineering](ai-security/prompt-engineering.md) | Techniques for effective LLM prompting |
-| [LLM Security](ai-security/llm-security.md) | Security considerations for large language models |
 
 ## Cryptography
 
